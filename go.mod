@@ -1,3 +1,3 @@
-module acky.io/socket_server/model
+module github.com/JunHyeongAn/model
 
 go 1.21.4
